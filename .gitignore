@@ -1,6 +1,7 @@
 .turbo
 .vscode
 .env
+.env.*
 
 # Local Packages and Build Outputs
 .astro/
