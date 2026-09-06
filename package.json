@@ -1,0 +1,48 @@
+{
+  "name": "www.whiteadderwatersports.co.uk",
+  "description": "Community site for the Whiteadder Watersports Centre.",
+  "author": {
+    "name": "Whiteadder Watersports Centre"
+  },
+  "version": "0.1.0",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "preinstall": "pnpm dlx only-allow pnpm",
+    "format": "oxfmt && prettier --ignore-path .gitignore --ignore-unknown --write \"**/*.{astro,feature}\"",
+    "format:check": "oxfmt --check && prettier --ignore-path .gitignore --ignore-unknown \"**/*.{astro,feature}\"",
+    "lint": "oxlint --fix .",
+    "lint:check": "oxlint .",
+    "build": "turbo run build",
+    "start": "turbo run start",
+    "browsers": "turbo run browsers",
+    "e2e": "turbo run e2e",
+    "ci": "turbo run ci"
+  },
+  "browserslist": {
+    "production": [
+      ">0.5%",
+      "not dead"
+    ],
+    "development": [
+      "last 2 Chrome versions",
+      "last 1 Firefox versions",
+      "last 1 Safari versions"
+    ]
+  },
+  "devDependencies": {
+    "oxfmt": "0.66.0",
+    "oxlint": "1.81.0",
+    "oxlint-tsgolint": "7.0.2001",
+    "prettier": "3.9.6",
+    "prettier-plugin-astro": "0.14.1",
+    "prettier-plugin-gherkin": "4.0.0",
+    "turbo": "2.10.12",
+    "typescript": "7.0.2"
+  },
+  "packageManager": "pnpm@10.33.0",
+  "engines": {
+    "node": ">=22",
+    "pnpm": ">=10"
+  }
+}

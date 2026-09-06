@@ -1,0 +1,8 @@
+{
+  "$schema": "./node_modules/oxlint/configuration_schema.json",
+  "ignorePatterns": ["**/.obsidian/plugins/**/*.js"],
+  "options": {
+    "typeAware": true,
+    "typeCheck": true
+  }
+}
