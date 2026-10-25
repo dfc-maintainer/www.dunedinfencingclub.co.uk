@@ -130,4 +130,4 @@ For answers to common questions about this code of conduct, see the FAQ at
 [Mozilla CoC]: https://github.com/mozilla/diversity
 [FAQ]: https://www.contributor-covenant.org/faq
 [translations]: https://www.contributor-covenant.org/translations
-[contact]: mailto:website@whiteadderwatersports.org.uk
+[contact]: mailto:website@dunedinfencingclub.org.uk

@@ -1,3 +1,3 @@
-# Whiteadder Watersports Centre
+# Dunedin Fencing Club
 
-Deploys our community website to www.whiteadderwatersports.co.uk, written in Astro.
+Deploys our community website to www.dunedinfencingclub.co.uk, written in Astro.

@@ -2,7 +2,7 @@
 
 ## Core Maintainers (and Responsibilities)
 
-- **Lead Maintainer:** [@wwc-maintainer](https://github.com/wwc-maintainer)
+- **Lead Maintainer:** [@dfc-maintainer](https://github.com/dfc-maintainer)
 
 ## Individual Contributors
 
