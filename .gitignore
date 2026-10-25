@@ -1,5 +1,4 @@
 .turbo
-.vscode
 .env
 .env.*
 
